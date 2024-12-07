@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Me.jpg"
   name             : "Xiaoqing Fu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" 
   bio              : "Mathematics Student"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Xiaoqing-Fu-6"
   scopus           : # URL
 
   # Repositories and software development
