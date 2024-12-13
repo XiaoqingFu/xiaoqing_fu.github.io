@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://name.com"
   email       : "cytheriafu06@gmail.com"
   bio         : "Hello."
-  avatar      : "me2024.png"
+  avatar      : "profile.png"
   twitter     : "name"
   google_plus : "Name"
 
@@ -13,6 +13,6 @@ Name2 Name2:
   name        : "Xiaoqing Fu"
   email       : "cytheriafu06@gmail.com"
   bio         : "Hello."
-  avatar      : "me2024.png"
+  avatar      : "profile.png"
   twitter     : "name2"
   google_plus : "Name"
